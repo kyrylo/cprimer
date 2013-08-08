@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "1-2.h"
+#include "14-2.h"
 
 int main(void)
 {
