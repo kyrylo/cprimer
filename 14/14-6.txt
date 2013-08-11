@@ -1,0 +1,15 @@
+1 Cool Puppy 10 0 0 1
+8 Super Player 4 0 0 2
+4 Jessie Joybat 3 5 2 0
+2 Alex Baseballmaster 1 1 1 1
+4 Jessie Joybat 5 2 1 1
+3 Unlucky Guy 0 0 0 0
+1 Cool Puppy 4 7 2 1
+4 Jessie Joybat 2 1 0 1
+3 Unlucky Guy 2 0 0 0
+17 Baseball Bro 9 1 5 2
+2 Alex Baseballmaster 5 0 2 5
+17 Baseball Bro 3 1 4 0
+1 Cool Puppy 3 2 5 1
+3 Unlucky Guy 10 0 0 0
+8 Super Player 8 8 5 3
