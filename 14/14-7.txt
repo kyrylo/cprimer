@@ -1,0 +1,5 @@
+Ruby Under a Microscope | Pat Shaughnessy | 20.00
+Refactoring Ruby | Martin Fowler | 21.16
+The Well-Grounded Rubyist | David A. Black | 44.99
+C Primer Plus | Stephen Prata | 34.38
+The C Programming Language | Dennis Ritchie | 42.69
